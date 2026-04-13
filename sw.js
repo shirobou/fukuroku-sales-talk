@@ -1,4 +1,4 @@
-const CACHE_NAME = 'sales-talk-v4';
+const CACHE_NAME = 'sales-talk-v7';
 const ASSETS = ['./index.html', './manifest.json'];
 
 self.addEventListener('install', e => {

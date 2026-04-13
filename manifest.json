@@ -1,6 +1,6 @@
 {
-  "name": "営業トークスクリプト - ふくろく訪問看護ステーション",
-  "short_name": "営業トーク",
+  "name": "ふくろく訪問看護ステーション - 営業トークスクリプト",
+  "short_name": "営業トークスクリプト",
   "description": "訪問先で使える営業トークスクリプト検索ツール",
   "start_url": "./index.html",
   "display": "standalone",
